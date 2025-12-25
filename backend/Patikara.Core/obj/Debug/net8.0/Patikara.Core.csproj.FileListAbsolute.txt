@@ -9,3 +9,4 @@ C:\Users\User\Desktop\Patikara\backend\Patikara.Core\obj\Debug\net8.0\Patikara.C
 C:\Users\User\Desktop\Patikara\backend\Patikara.Core\obj\Debug\net8.0\refint\Patikara.Core.dll
 C:\Users\User\Desktop\Patikara\backend\Patikara.Core\obj\Debug\net8.0\Patikara.Core.pdb
 C:\Users\User\Desktop\Patikara\backend\Patikara.Core\obj\Debug\net8.0\ref\Patikara.Core.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Core\obj\Debug\net8.0\Patikara.Core.sourcelink.json

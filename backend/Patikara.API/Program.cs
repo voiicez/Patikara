@@ -65,6 +65,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+// Static files for uploaded photos
+app.UseStaticFiles();
+
 app.UseCors("AllowAll");
 
 app.UseAuthentication();

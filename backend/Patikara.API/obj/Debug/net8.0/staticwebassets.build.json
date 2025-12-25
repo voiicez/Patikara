@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "Pa+XZujnHa41jqQZjh7k6h2ZVi8I4jXZJWiiKmR/NhM=",
+  "Hash": "0e2y+pPFb8uDc+aQcr2U0H8LDSQ24qIXZX4h2+NRwCc=",
   "Source": "Patikara.API",
   "BasePath": "_content/Patikara.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Patikara.API\\wwwroot",
+      "Source": "Patikara.API",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Patikara\\backend\\Patikara.API\\wwwroot\\",
+      "BasePath": "_content/Patikara.API",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

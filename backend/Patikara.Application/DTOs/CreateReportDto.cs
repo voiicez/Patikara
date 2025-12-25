@@ -8,5 +8,6 @@ public class CreateReportDto
     public string? Mesaj { get; set; }
     public string IhbarAciklamasi { get; set; } = string.Empty;
     public string? Ayrinti { get; set; }
+    public string AcikAdres { get; set; } = string.Empty;
 }
 

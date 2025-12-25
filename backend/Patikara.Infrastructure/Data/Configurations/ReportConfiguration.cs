@@ -33,6 +33,13 @@ public class ReportConfiguration : IEntityTypeConfiguration<Report>
         builder.Property(r => r.Ayrinti)
             .HasMaxLength(5000);
 
+        builder.Property(r => r.AcikAdres)
+            .IsRequired()
+            .HasMaxLength(500);
+
+        builder.Property(r => r.Fotograflar)
+            .HasMaxLength(2000);
+
         builder.Property(r => r.Durum)
             .IsRequired()
             .HasDefaultValue(ReportStatus.Beklemede);

@@ -11,6 +11,8 @@ public class ReportResponseDto
     public string? Mesaj { get; set; }
     public string IhbarAciklamasi { get; set; } = string.Empty;
     public string? Ayrinti { get; set; }
+    public string AcikAdres { get; set; } = string.Empty;
+    public List<string>? Fotograflar { get; set; }
     public ReportStatus Durum { get; set; }
     public DateTime OlusturmaTarihi { get; set; }
     public DateTime? GuncellemeTarihi { get; set; }

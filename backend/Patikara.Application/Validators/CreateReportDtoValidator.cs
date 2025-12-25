@@ -31,6 +31,10 @@ public class CreateReportDtoValidator : AbstractValidator<CreateReportDto>
         RuleFor(x => x.Ayrinti)
             .MaximumLength(5000).WithMessage("Ayrıntı en fazla 5000 karakter olabilir.")
             .When(x => !string.IsNullOrEmpty(x.Ayrinti));
+
+        RuleFor(x => x.AcikAdres)
+            .NotEmpty().WithMessage("Açık adres alanı zorunludur.")
+            .MaximumLength(500).WithMessage("Açık adres en fazla 500 karakter olabilir.");
     }
 }
 
