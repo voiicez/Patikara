@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\bin\Debug\net8.0\Patikara.Application.deps.json
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\bin\Debug\net8.0\Patikara.Application.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\bin\Debug\net8.0\Patikara.Application.pdb
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\bin\Debug\net8.0\Patikara.Core.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\bin\Debug\net8.0\Patikara.Core.pdb
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\obj\Debug\net8.0\Patikara.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\obj\Debug\net8.0\Patikara.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\obj\Debug\net8.0\Patikara.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\obj\Debug\net8.0\Patikara.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\obj\Debug\net8.0\Patikara.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\obj\Debug\net8.0\Patikara.DD4AFF6C.Up2Date
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\obj\Debug\net8.0\Patikara.Application.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\obj\Debug\net8.0\refint\Patikara.Application.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\obj\Debug\net8.0\Patikara.Application.pdb
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\obj\Debug\net8.0\ref\Patikara.Application.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\bin\Debug\net8.0\Patikara.Infrastructure.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Application\bin\Debug\net8.0\Patikara.Infrastructure.pdb

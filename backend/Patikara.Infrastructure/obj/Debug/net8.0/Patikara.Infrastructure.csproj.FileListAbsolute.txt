@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\bin\Debug\net8.0\Patikara.Infrastructure.deps.json
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\bin\Debug\net8.0\Patikara.Infrastructure.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\bin\Debug\net8.0\Patikara.Infrastructure.pdb
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\bin\Debug\net8.0\Patikara.Core.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\bin\Debug\net8.0\Patikara.Core.pdb
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\obj\Debug\net8.0\Patikara.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\obj\Debug\net8.0\Patikara.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\obj\Debug\net8.0\Patikara.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\obj\Debug\net8.0\Patikara.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\obj\Debug\net8.0\Patikara.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\obj\Debug\net8.0\Patikara.86E4EB5F.Up2Date
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\obj\Debug\net8.0\Patikara.Infrastructure.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\obj\Debug\net8.0\refint\Patikara.Infrastructure.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\obj\Debug\net8.0\Patikara.Infrastructure.pdb
+C:\Users\User\Desktop\Patikara\backend\Patikara.Infrastructure\obj\Debug\net8.0\ref\Patikara.Infrastructure.dll

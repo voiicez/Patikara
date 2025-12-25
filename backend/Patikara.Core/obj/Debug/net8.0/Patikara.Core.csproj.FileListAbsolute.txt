@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Patikara\backend\Patikara.Core\bin\Debug\net8.0\Patikara.Core.deps.json
+C:\Users\User\Desktop\Patikara\backend\Patikara.Core\bin\Debug\net8.0\Patikara.Core.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Core\bin\Debug\net8.0\Patikara.Core.pdb
+C:\Users\User\Desktop\Patikara\backend\Patikara.Core\obj\Debug\net8.0\Patikara.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Patikara\backend\Patikara.Core\obj\Debug\net8.0\Patikara.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Patikara\backend\Patikara.Core\obj\Debug\net8.0\Patikara.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Patikara\backend\Patikara.Core\obj\Debug\net8.0\Patikara.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Patikara\backend\Patikara.Core\obj\Debug\net8.0\Patikara.Core.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Core\obj\Debug\net8.0\refint\Patikara.Core.dll
+C:\Users\User\Desktop\Patikara\backend\Patikara.Core\obj\Debug\net8.0\Patikara.Core.pdb
+C:\Users\User\Desktop\Patikara\backend\Patikara.Core\obj\Debug\net8.0\ref\Patikara.Core.dll

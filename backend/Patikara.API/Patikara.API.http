@@ -1,0 +1,6 @@
+@Patikara.API_HostAddress = http://localhost:5269
+
+GET {{Patikara.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

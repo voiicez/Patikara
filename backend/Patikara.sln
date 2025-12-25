@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patikara.Core", "Patikara.Core\Patikara.Core.csproj", "{83761391-578A-4F45-8E88-4BDA509E5200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patikara.Application", "Patikara.Application\Patikara.Application.csproj", "{871AA155-2281-495F-9B66-A9C7F1FDEBC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patikara.Infrastructure", "Patikara.Infrastructure\Patikara.Infrastructure.csproj", "{5484FD37-B69D-4FE9-9AA5-4E0367A32BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patikara.API", "Patikara.API\Patikara.API.csproj", "{24C00243-A66D-489D-80B6-34FEE3220C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83761391-578A-4F45-8E88-4BDA509E5200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83761391-578A-4F45-8E88-4BDA509E5200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83761391-578A-4F45-8E88-4BDA509E5200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83761391-578A-4F45-8E88-4BDA509E5200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871AA155-2281-495F-9B66-A9C7F1FDEBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871AA155-2281-495F-9B66-A9C7F1FDEBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871AA155-2281-495F-9B66-A9C7F1FDEBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871AA155-2281-495F-9B66-A9C7F1FDEBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5484FD37-B69D-4FE9-9AA5-4E0367A32BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5484FD37-B69D-4FE9-9AA5-4E0367A32BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5484FD37-B69D-4FE9-9AA5-4E0367A32BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5484FD37-B69D-4FE9-9AA5-4E0367A32BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C00243-A66D-489D-80B6-34FEE3220C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C00243-A66D-489D-80B6-34FEE3220C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C00243-A66D-489D-80B6-34FEE3220C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C00243-A66D-489D-80B6-34FEE3220C80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
